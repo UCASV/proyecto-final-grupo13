@@ -1,0 +1,118 @@
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Proyecto_Vacunacion.exe
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Proyecto_Vacunacion.deps.json
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Proyecto_Vacunacion.runtimeconfig.json
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Proyecto_Vacunacion.runtimeconfig.dev.json
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Proyecto_Vacunacion.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\ref\Proyecto_Vacunacion.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Proyecto_Vacunacion.pdb
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.csprojAssemblyReference.cache
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.Form1.resources
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.csproj.GenerateResource.cache
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.AssemblyInfoInputs.cache
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.AssemblyInfo.cs
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.csproj.CopyComplete
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\ref\Proyecto_Vacunacion.dll
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.pdb
+C:\Users\Gabriel-lap\Desktop\Proyecto Final POO\Otra conexion\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.genruntimeconfig.cache
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Proyecto_Vacunacion.exe
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Proyecto_Vacunacion.deps.json
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Proyecto_Vacunacion.runtimeconfig.json
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Proyecto_Vacunacion.runtimeconfig.dev.json
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Proyecto_Vacunacion.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\ref\Proyecto_Vacunacion.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Proyecto_Vacunacion.pdb
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.csprojAssemblyReference.cache
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.Form1.resources
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.frmCita.resources
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.frmCiudadano.resources
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.frmEnfermedades.resources
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.frmSeguimientoCita.resources
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.csproj.GenerateResource.cache
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.AssemblyInfoInputs.cache
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.AssemblyInfo.cs
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.csproj.CoreCompileInputs.cache
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.csproj.CopyComplete
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\ref\Proyecto_Vacunacion.dll
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.pdb
+C:\Users\noe\RiderProjects\Proyecto_Vacunacion\Proyecto_Vacunacion\obj\Debug\net5.0-windows\Proyecto_Vacunacion.genruntimeconfig.cache
