@@ -3,7 +3,7 @@ using System.Linq;
 using System.Windows.Forms;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
-using Proyecto_Vacunacion.VacunacionContext;
+
 
 namespace Proyecto_Vacunacion
 {

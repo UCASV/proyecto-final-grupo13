@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Microsoft.EntityFrameworkCore;
-using Proyecto_Vacunacion.VacunacionContext;
+
 
 namespace Proyecto_Vacunacion
 {

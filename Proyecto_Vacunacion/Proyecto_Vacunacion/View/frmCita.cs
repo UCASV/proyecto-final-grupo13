@@ -5,7 +5,7 @@ using System.Windows.Forms;
 using iTextSharp.text;
 using iTextSharp.text.pdf;
 using Microsoft.VisualBasic.Devices;
-using Proyecto_Vacunacion.VacunacionContext;
+
 
 namespace Proyecto_Vacunacion
 {

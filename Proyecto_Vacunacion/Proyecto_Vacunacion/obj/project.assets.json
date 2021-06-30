@@ -5817,11 +5817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel-lap\\Downloads\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel-lap\\Desktop\\Nueva carpeta\\PROYECTO_POO_BDD_012021(2)\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj",
       "projectName": "Proyecto_Vacunacion",
-      "projectPath": "C:\\Users\\Gabriel-lap\\Downloads\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj",
+      "projectPath": "C:\\Users\\Gabriel-lap\\Desktop\\Nueva carpeta\\PROYECTO_POO_BDD_012021(2)\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj",
       "packagesPath": "C:\\Users\\Gabriel-lap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel-lap\\Downloads\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel-lap\\Desktop\\Nueva carpeta\\PROYECTO_POO_BDD_012021(2)\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel-lap\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5894,7 +5894,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'BouncyCastle 1.8.6.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "message": "El paquete \"BouncyCastle 1.8.6.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
       "libraryId": "BouncyCastle",
       "targetGraphs": [
         "net5.0-windows7.0"
@@ -5904,7 +5904,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'iTextSharp 5.5.13.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "message": "El paquete \"iTextSharp 5.5.13.2\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
       "libraryId": "iTextSharp",
       "targetGraphs": [
         "net5.0-windows7.0"

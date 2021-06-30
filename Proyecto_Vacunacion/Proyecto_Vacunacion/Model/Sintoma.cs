@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 #nullable disable
 
-namespace Proyecto_Vacunacion.VacunacionContext
+namespace Proyecto_Vacunacion
 {
     public partial class Sintoma
     {

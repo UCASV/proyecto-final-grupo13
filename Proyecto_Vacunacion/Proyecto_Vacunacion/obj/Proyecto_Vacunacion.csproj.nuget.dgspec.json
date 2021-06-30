@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel-lap\\Downloads\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj": {}
+    "C:\\Users\\Gabriel-lap\\Desktop\\Nueva carpeta\\PROYECTO_POO_BDD_012021(2)\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel-lap\\Downloads\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj": {
+    "C:\\Users\\Gabriel-lap\\Desktop\\Nueva carpeta\\PROYECTO_POO_BDD_012021(2)\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel-lap\\Downloads\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel-lap\\Desktop\\Nueva carpeta\\PROYECTO_POO_BDD_012021(2)\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj",
         "projectName": "Proyecto_Vacunacion",
-        "projectPath": "C:\\Users\\Gabriel-lap\\Downloads\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj",
+        "projectPath": "C:\\Users\\Gabriel-lap\\Desktop\\Nueva carpeta\\PROYECTO_POO_BDD_012021(2)\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj",
         "packagesPath": "C:\\Users\\Gabriel-lap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel-lap\\Downloads\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel-lap\\Desktop\\Nueva carpeta\\PROYECTO_POO_BDD_012021(2)\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel-lap\\AppData\\Roaming\\NuGet\\NuGet.Config"
