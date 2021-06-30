@@ -1,10 +1,10 @@
 # proyecto-final-grupo13
 proyecto-final-grupo13 created by GitHub Classroom
 
--- Angel Gabriel Merlos Rodriguez 00005118
--- Noe Bladimir Alas Moscoso 00262020
--- Gerson Steven Majano Guandique 00064420
--- Adolfo Alejandro Martínez Portillo 00109220
+-- Angel Gabriel Merlos Rodriguez 00005118.
+-- Noe Bladimir Alas Moscoso 00262020.
+-- Gerson Steven Majano Guandique 00064420.
+-- Adolfo Alejandro Martínez Portillo 00109220.
 
 ## ASPECTOS TÉCNICOS
 
