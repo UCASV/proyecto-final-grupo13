@@ -30,16 +30,10 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Compile Update="View\frmCiudadano.cs">
+      <Compile Update="View\FrmEmpleado.cs">
         <SubType>Form</SubType>
       </Compile>
-      <Compile Update="View\frmEnfermedades.cs">
-        <SubType>Form</SubType>
-      </Compile>
-      <Compile Update="View\frmCita.cs">
-        <SubType>Form</SubType>
-      </Compile>
-      <Compile Update="View\frmSeguimientoCita.cs">
+      <Compile Update="View\FrmProcesoVacunacion.cs">
         <SubType>Form</SubType>
       </Compile>
     </ItemGroup>

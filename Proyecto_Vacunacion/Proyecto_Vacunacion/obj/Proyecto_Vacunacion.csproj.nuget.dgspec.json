@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel-lap\\Desktop\\Nueva carpeta\\PROYECTO_POO_BDD_012021(2)\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj": {}
+    "C:\\Users\\aalej\\OneDrive\\Escritorio\\POO 2021\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel-lap\\Desktop\\Nueva carpeta\\PROYECTO_POO_BDD_012021(2)\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj": {
+    "C:\\Users\\aalej\\OneDrive\\Escritorio\\POO 2021\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel-lap\\Desktop\\Nueva carpeta\\PROYECTO_POO_BDD_012021(2)\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj",
+        "projectUniqueName": "C:\\Users\\aalej\\OneDrive\\Escritorio\\POO 2021\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj",
         "projectName": "Proyecto_Vacunacion",
-        "projectPath": "C:\\Users\\Gabriel-lap\\Desktop\\Nueva carpeta\\PROYECTO_POO_BDD_012021(2)\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj",
-        "packagesPath": "C:\\Users\\Gabriel-lap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel-lap\\Desktop\\Nueva carpeta\\PROYECTO_POO_BDD_012021(2)\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\obj\\",
+        "projectPath": "C:\\Users\\aalej\\OneDrive\\Escritorio\\POO 2021\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\Proyecto_Vacunacion.csproj",
+        "packagesPath": "C:\\Users\\aalej\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aalej\\OneDrive\\Escritorio\\POO 2021\\Proyecto_Vacunacion\\Proyecto_Vacunacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gabriel-lap\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\aalej\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0-windows"
@@ -75,7 +75,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

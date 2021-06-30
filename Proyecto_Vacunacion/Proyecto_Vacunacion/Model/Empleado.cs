@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 #nullable disable
 
-namespace Proyecto_Vacunacion
+namespace Proyecto_Vacunacion.VacunacionContext
 {
     public partial class Empleado
     {
@@ -21,6 +21,8 @@ namespace Proyecto_Vacunacion
         public string CorreoInstitucional { get; set; }
         public string Direccion { get; set; }
         public int? IdTipoEmpleado { get; set; }
+        
+       
 
         public virtual TipoEmpleado IdTipoEmpleadoNavigation { get; set; }
         public virtual ICollection<Cabina> Cabinas { get; set; }
