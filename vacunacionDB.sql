@@ -40,6 +40,7 @@ institucion VARCHAR(50) NOT NULL
 
 CREATE TABLE CIUDADANO (
 dui INT PRIMARY KEY,
+edad INT NOT NULL,
 correo_electronico VARCHAR(30) NOT NULL,
 direccion VARCHAR(50) NOT NULL,
 telefono INT NOT NULL UNIQUE,
@@ -130,9 +131,9 @@ INSERT INTO INSTITUCION VALUES ('Gobierno')
 INSERT INTO INSTITUCION VALUES ('PNC')
 INSERT INTO INSTITUCION VALUES ('Educacion')
 -------------------------------------------------------------------------------
-INSERT INTO CIUDADANO VALUES (123456789, 'ama@gmail.com', 'Colonia Miguel', '7646444',1)
-INSERT INTO CIUDADANO VALUES (236475899, 'mixtas@gmail.com','San Salvador','889767',2 )
-INSERT INTO CIUDADANO VALUES (564738297, 'link@gmail.com','Mostoles','240782',3 )
+INSERT INTO CIUDADANO VALUES (123456789, 70, 'ama@gmail.com', 'Colonia Miguel', '7646444',1)
+INSERT INTO CIUDADANO VALUES (236475899, 65, 'mixtas@gmail.com','San Salvador','889767',2 )
+INSERT INTO CIUDADANO VALUES (564738297, 61, 'link@gmail.com','Mostoles','240782',3 )
 -------------------------------------------------------------------------------
 INSERT INTO CABINA VALUES ('San  Jacinto','25252525','askl@cabina.com',1)
 INSERT INTO CABINA VALUES ('San  Luis','77751880','meresa@cabina.com',2)
